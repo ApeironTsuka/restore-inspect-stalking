@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "Restore /inspect stalking",
+    "author": "Emonas / Apeiron",
+    "version": 1.0,
+    "description": "Re-enables zooming into players when using /inspect",
+    "options": {
+        "niceName": "RestoreInspectStalking",
+        "guiName": "Restore Inspect Stalking"
+    },
+    "servers": ["https://raw.githubusercontent.com/ApeironTsuka/restore-inspect-stalking/master/"],
+    "donationUrl": ""
+}
